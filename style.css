@@ -1,0 +1,25 @@
+ img{
+            border: 40px solid yellow;
+            border-radius: 30px;
+            width: 50%;
+            margin: 100px 320px;
+            height: 50%;
+            padding: 20px;
+
+        }
+        html{
+         background-color: blue;
+            color: rgb(255, 0, 0);
+            font-size: 50px;
+            
+            
+           
+        }
+        h1{
+            text-align: center;
+            font-size: 50px;
+            font-family: cursive;
+        }
+        div{
+            border: 70px dashed rgb(243, 102, 0);
+        }
